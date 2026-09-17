@@ -171,3 +171,6 @@ launcher can report a Gradle daemon-disappeared error when it exits at that gate
 - `src/main/resources/META-INF/mods.toml`: Forge and Minecraft compatibility.
 
 Build tooling is based on the [official Forge 1.14.4 MDK](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.14.4.html).
+
+# Disclaimer
+This project was made with the assistance of AI.
